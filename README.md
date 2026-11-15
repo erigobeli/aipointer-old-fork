@@ -1,3 +1,6 @@
+⚠️ Esta é uma cópia antiga e não é mantida.
+Projeto oficial: https://aipointer.app
+
 <div align="center">
 
 <br>
